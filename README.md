@@ -1,2 +1,2 @@
-# convert_hash_syntax
+# Practice-Ruby
 Written in Ruby.
